@@ -1,0 +1,18 @@
+Kodların çalışabilmesi için kurulması gerekenler;
+
+pip install keras
+
+pip install pandas
+
+pip install tensorflow
+
+pip install seaborn
+
+pip install torch
+
+pip install statsmodels
+
+Not: Rapor hem word dosyası şeklinde hemde pdf şeklinde gönderilmiştir.
+
+
+
